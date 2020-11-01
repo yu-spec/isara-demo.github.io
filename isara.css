@@ -122,7 +122,7 @@ header {
 }
 /* section1 */
 .section1 {
-  background-image: url(../images/main.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/main.jpg");
   background-size: cover;
   background-position: center;
   height: 580px;
@@ -222,7 +222,7 @@ header {
 .section3 {
   height: 587px;
   text-align: center;
-  background-image: url(../images/introbottom.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/introbottom.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -357,7 +357,7 @@ header {
   color: #fff;
   padding-top: 60px;
   padding-bottom: 40px;
-  background-image: url(../images/aboutsecondbg.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/aboutsecondbg.jpg");
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -494,21 +494,21 @@ header {
 
 .free {
   height: 180px;
-  background-image: url(../images/section7-photo1.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/section7-photo1.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .study {
   height: 180px;
-  background-image: url(../images/section7-photo2.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/section7-photo2.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .money {
   height: 180px;
-  background-image: url(../images/section7-photo3.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/section7-photo3.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -550,7 +550,7 @@ header {
   text-align: center;
   color: #fff;
   padding: 80px 0 40px;
-  background-image: url(../images/teacherbg.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/teacherbg.jpg");
   background-size: cover;
 }
 
@@ -707,7 +707,7 @@ small {
   text-align: center;
   color: #fff;
   padding: 60px 0 40px;
-  background-image: url(../images/classbg.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/classbg.jpg");
   background-size: cover;
   width: 100%;
   /* background-position: center; */
@@ -809,7 +809,7 @@ small {
 }
 /* section11 */
 .section11 {
-  background-image: url(../images/map.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/map.jpg");
   background-size: cover;
   background-position: center;
   padding: 80px 80px;
@@ -904,7 +904,7 @@ small {
   color: #fff;
   text-align: center;
   padding: 60px 0 20px;
-  background-image: url(../images/specialdetail.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/specialdetail.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -1516,7 +1516,7 @@ form#OF_form1 textarea {
 
 /* section1 */
 .section1 {
-  background-image: url(../images/mainsp.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/mainsp.jpg");
   height: 377px;
 }
 
@@ -1624,7 +1624,7 @@ form#OF_form1 textarea {
 }
 
 .section4 {
-  background-image: url(../images/aboutsecondbgsp.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/aboutsecondbgsp.jpg");
   padding: 30px 30px;
 }
 
@@ -1692,7 +1692,7 @@ form#OF_form1 textarea {
 }
 /* section7 */
 .section7 {
-  background-image: url(../images/teacherbgsp.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/teacherbgsp.jpg");
 }
 
 .section7 img {
@@ -1843,7 +1843,7 @@ form#OF_form1 textarea {
 }
 /* section11 */
 .section11 {
-  background-image: url(../images/bangkokbgsp.jpg);
+  background-image: url("https://yu-spec.github.io/isara-demo.github.io/bangkokbgsp.jpg");
   padding: 50px 15px 20px;
 }
 
